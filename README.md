@@ -85,100 +85,100 @@ Pricing optimization represents the intersection of **econometrics, machine lear
 
 ### 🚀 Top Featured Open-Source Projects
 
-1. **[Playwright](https://github.com/microsoft/playwright)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
+1. **[Playwright](https://github.com/microsoft/playwright)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/playwright?style=social&color=white)](https://github.com/microsoft/playwright/stargazers)  
    ⚡ Fast, reliable headless browser automation for high-scale competitor price scraping, bot detection evasion, and multi-region e-commerce catalog crawling.
 
-2. **[Grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
+2. **[Grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)  
    📈 Open-source observability and analytics platform for real-time visualization of live price adjustments, profit margins, conversion rates, and revenue KPIs.
 
-3. **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
+3. **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)  
    📊 Enterprise-ready business intelligence platform and data exploration tool ideal for constructing rich pricing dashboards on top of SQL databases.
 
-4. **[scikit-learn](https://github.com/scikit-learn/scikit-learn)** [![GitHub stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers)  
+4. **[scikit-learn](https://github.com/scikit-learn/scikit-learn)** [![GitHub_Stars](https://img.shields.io/github/stars/scikit-learn/scikit-learn?style=social&color=white)](https://github.com/scikit-learn/scikit-learn/stargazers)  
    🧠 Foundational Python machine learning library providing linear regressions, clustering, and preprocessing for baseline price elasticity and customer segmentation.
 
-5. **[Scrapy](https://github.com/scrapy/scrapy)** [![GitHub stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social&color=white)](https://github.com/scrapy/scrapy/stargazers)  
+5. **[Scrapy](https://github.com/scrapy/scrapy)** [![GitHub_Stars](https://img.shields.io/github/stars/scrapy/scrapy?style=social&color=white)](https://github.com/scrapy/scrapy/stargazers)  
    🕷️ Fast, high-level web crawling and scraping framework for asynchronous competitive price extraction and automated catalog monitoring pipelines.
 
-6. **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
+6. **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)  
    💡 Simple, intuitive business intelligence tool that lets pricing analysts explore margin distributions, competitor spreads, and revenue performance without SQL.
 
-7. **[Ray RLlib](https://github.com/ray-project/ray)** [![GitHub stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)  
+7. **[Ray RLlib](https://github.com/ray-project/ray)** [![GitHub_Stars](https://img.shields.io/github/stars/ray-project/ray?style=social&color=white)](https://github.com/ray-project/ray/stargazers)  
    🌐 Distributed reinforcement learning library capable of training high-throughput dynamic pricing policies and multi-agent competitive market simulations.
 
-8. **[XGBoost](https://github.com/dmlc/xgboost)** [![GitHub stars](https://img.shields.io/github/stars/dmlc/xgboost?style=social&color=white)](https://github.com/dmlc/xgboost/stargazers)  
+8. **[XGBoost](https://github.com/dmlc/xgboost)** [![GitHub_Stars](https://img.shields.io/github/stars/dmlc/xgboost?style=social&color=white)](https://github.com/dmlc/xgboost/stargazers)  
    ⚡ Optimized distributed gradient boosting library widely used as the workhorse for retail demand forecasting, price sensitivity modeling, and conversion rate prediction.
 
-9. **[MLflow](https://github.com/mlflow/mlflow)** [![GitHub stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
+9. **[MLflow](https://github.com/mlflow/mlflow)** [![GitHub_Stars](https://img.shields.io/github/stars/mlflow/mlflow?style=social&color=white)](https://github.com/mlflow/mlflow/stargazers)  
    🔄 Open-source MLOps platform for tracking price model experiments, managing versioned pricing models, and orchestrating automated retraining pipelines.
 
-10. **[Prophet](https://github.com/facebook/prophet)** [![GitHub stars](https://img.shields.io/github/stars/facebook/prophet?style=social&color=white)](https://github.com/facebook/prophet/stargazers)  
+10. **[Prophet](https://github.com/facebook/prophet)** [![GitHub_Stars](https://img.shields.io/github/stars/facebook/prophet?style=social&color=white)](https://github.com/facebook/prophet/stargazers)  
     📅 Time-series forecasting framework designed to handle strong seasonal effects, holidays, and trend shifts across historical pricing and demand data.
 
-11. **[LightGBM](https://github.com/microsoft/LightGBM)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/LightGBM?style=social&color=white)](https://github.com/microsoft/LightGBM/stargazers)  
+11. **[LightGBM](https://github.com/microsoft/LightGBM)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/LightGBM?style=social&color=white)](https://github.com/microsoft/LightGBM/stargazers)  
     🚀 Ultra-fast, tree-based gradient boosting framework optimized for high-volume SKU-level demand forecasting and non-linear price interaction features.
 
-12. **[SciPy Optimize](https://github.com/scipy/scipy)** [![GitHub stars](https://img.shields.io/github/stars/scipy/scipy?style=social&color=white)](https://github.com/scipy/scipy/stargazers)  
+12. **[SciPy Optimize](https://github.com/scipy/scipy)** [![GitHub_Stars](https://img.shields.io/github/stars/scipy/scipy?style=social&color=white)](https://github.com/scipy/scipy/stargazers)  
     🔬 Core numerical computation library providing nonlinear optimization, constraint minimization, and curve fitting for empirical revenue functions.
 
-13. **[Optuna](https://github.com/optuna/optuna)** [![GitHub stars](https://img.shields.io/github/stars/optuna/optuna?style=social&color=white)](https://github.com/optuna/optuna/stargazers)  
+13. **[Optuna](https://github.com/optuna/optuna)** [![GitHub_Stars](https://img.shields.io/github/stars/optuna/optuna?style=social&color=white)](https://github.com/optuna/optuna/stargazers)  
     🎯 Automatic hyperparameter optimization software for fine-tuning demand forecasting models, pricing policy parameters, and RL reward weights.
 
-14. **[OR-Tools](https://github.com/google/or-tools)** [![GitHub stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers)  
+14. **[OR-Tools](https://github.com/google/or-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers)  
     🧩 Google's fast mathematical optimization suite for linear, integer, and constraint programming to solve constrained commercial pricing and product bundling.
 
-15. **[Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3)** [![GitHub stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3?style=social&color=white)](https://github.com/DLR-RM/stable-baselines3/stargazers)  
+15. **[Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3)** [![GitHub_Stars](https://img.shields.io/github/stars/DLR-RM/stable-baselines3?style=social&color=white)](https://github.com/DLR-RM/stable-baselines3/stargazers)  
     🤖 Production-ready PyTorch implementations of reinforcement learning algorithms (PPO, DQN, SAC) for training autonomous dynamic pricing agents.
 
-16. **[Gymnasium](https://github.com/Farama-Foundation/Gymnasium)** [![GitHub stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social&color=white)](https://github.com/Farama-Foundation/Gymnasium/stargazers)  
+16. **[Gymnasium](https://github.com/Farama-Foundation/Gymnasium)** [![GitHub_Stars](https://img.shields.io/github/stars/Farama-Foundation/Gymnasium?style=social&color=white)](https://github.com/Farama-Foundation/Gymnasium/stargazers)  
     🕹️ Standard API for reinforcement learning environments, providing the foundation for custom pricing simulation gyms with simulated customer demand.
 
-17. **[Darts](https://github.com/unit8co/darts)** [![GitHub stars](https://img.shields.io/github/stars/unit8co/darts?style=social&color=white)](https://github.com/unit8co/darts/stargazers)  
+17. **[Darts](https://github.com/unit8co/darts)** [![GitHub_Stars](https://img.shields.io/github/stars/unit8co/darts?style=social&color=white)](https://github.com/unit8co/darts/stargazers)  
     ⏱️ Unified Python time-series library supporting classical ARIMA/ETS and deep learning models (N-BEATS, TFT) for multi-horizon demand forecasting.
 
-18. **[CatBoost](https://github.com/catboost/catboost)** [![GitHub stars](https://img.shields.io/github/stars/catboost/catboost?style=social&color=white)](https://github.com/catboost/catboost/stargazers)  
+18. **[CatBoost](https://github.com/catboost/catboost)** [![GitHub_Stars](https://img.shields.io/github/stars/catboost/catboost?style=social&color=white)](https://github.com/catboost/catboost/stargazers)  
     🐱 Gradient boosting library with state-of-the-art native support for high-cardinality categorical features like Store IDs, SKU barcodes, and buyer tiers.
 
-19. **[DoWhy](https://github.com/py-why/dowhy)** [![GitHub stars](https://img.shields.io/github/stars/py-why/dowhy?style=social&color=white)](https://github.com/py-why/dowhy/stargazers)  
+19. **[DoWhy](https://github.com/py-why/dowhy)** [![GitHub_Stars](https://img.shields.io/github/stars/py-why/dowhy?style=social&color=white)](https://github.com/py-why/dowhy/stargazers)  
     🔍 Causal inference engine that isolates true price elasticity from confounders (promotions, seasonality, competitor actions) using causal graphs.
 
-20. **[GrowthBook](https://github.com/growthbook/growthbook)** [![GitHub stars](https://img.shields.io/github/stars/growthbook/growthbook?style=social&color=white)](https://github.com/growthbook/growthbook/stargazers)  
+20. **[GrowthBook](https://github.com/growthbook/growthbook)** [![GitHub_Stars](https://img.shields.io/github/stars/growthbook/growthbook?style=social&color=white)](https://github.com/growthbook/growthbook/stargazers)  
     🧪 Open-source A/B testing and feature flagging platform for designing, executing, and statistically validating live pricing experiments.
 
-21. **[Feast](https://github.com/feast-dev/feast)** [![GitHub stars](https://img.shields.io/github/stars/feast-dev/feast?style=social&color=white)](https://github.com/feast-dev/feast/stargazers)  
+21. **[Feast](https://github.com/feast-dev/feast)** [![GitHub_Stars](https://img.shields.io/github/stars/feast-dev/feast?style=social&color=white)](https://github.com/feast-dev/feast/stargazers)  
     🗄️ Open-source feature store ensuring consistent real-time and historical feature serving (competitor prices, stock counts, elasticity scores) to pricing models.
 
-22. **[CVXPY](https://github.com/cvxpy/cvxpy)** [![GitHub stars](https://img.shields.io/github/stars/cvxpy/cvxpy?style=social&color=white)](https://github.com/cvxpy/cvxpy/stargazers)  
+22. **[CVXPY](https://github.com/cvxpy/cvxpy)** [![GitHub_Stars](https://img.shields.io/github/stars/cvxpy/cvxpy?style=social&color=white)](https://github.com/cvxpy/cvxpy/stargazers)  
     📐 Domain-specific language for convex optimization, ideal for constrained multi-product price setting under margin, inventory, and budget constraints.
 
-23. **[CausalML](https://github.com/uber/causalml)** [![GitHub stars](https://img.shields.io/github/stars/uber/causalml?style=social&color=white)](https://github.com/uber/causalml/stargazers)  
+23. **[CausalML](https://github.com/uber/causalml)** [![GitHub_Stars](https://img.shields.io/github/stars/uber/causalml?style=social&color=white)](https://github.com/uber/causalml/stargazers)  
     🎯 Uber's uplift modeling and causal ML toolkit for estimating heterogeneous treatment effects to personalize discounts and optimize coupon allocation.
 
-24. **[StatsForecast](https://github.com/Nixtla/statsforecast)** [![GitHub stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=social&color=white)](https://github.com/Nixtla/statsforecast/stargazers)  
+24. **[StatsForecast](https://github.com/Nixtla/statsforecast)** [![GitHub_Stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=social&color=white)](https://github.com/Nixtla/statsforecast/stargazers)  
     ⚡ Lightning-fast statistical and econometric time-series models (AutoARIMA, ETS, CES) designed for massive parallel SKU demand forecasting.
 
-25. **[EconML](https://github.com/microsoft/EconML)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/EconML?style=social&color=white)](https://github.com/microsoft/EconML/stargazers)  
+25. **[EconML](https://github.com/microsoft/EconML)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/EconML?style=social&color=white)](https://github.com/microsoft/EconML/stargazers)  
     🔬 Microsoft's causal machine learning library combining Double Machine Learning and instrumental variables to estimate price elasticity curves.
 
-26. **[Pyomo](https://github.com/Pyomo/pyomo)** [![GitHub stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers)  
+26. **[Pyomo](https://github.com/Pyomo/pyomo)** [![GitHub_Stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers)  
     ⚙️ Comprehensive Python-based mathematical optimization modeling language for complex linear, nonlinear, and mixed-integer price optimization problems.
 
-27. **[PuLP](https://github.com/coin-or/pulp)** [![GitHub stars](https://img.shields.io/github/stars/coin-or/pulp?style=social&color=white)](https://github.com/coin-or/pulp/stargazers)  
+27. **[PuLP](https://github.com/coin-or/pulp)** [![GitHub_Stars](https://img.shields.io/github/stars/coin-or/pulp?style=social&color=white)](https://github.com/coin-or/pulp/stargazers)  
     📦 Clean linear programming library in Python that interfaces with popular solvers (CBC, GLPK, Gurobi, CPLEX) for commercial price formulation.
 
-28. **[MLForecast](https://github.com/Nixtla/mlforecast)** [![GitHub stars](https://img.shields.io/github/stars/Nixtla/mlforecast?style=social&color=white)](https://github.com/Nixtla/mlforecast/stargazers)  
+28. **[MLForecast](https://github.com/Nixtla/mlforecast)** [![GitHub_Stars](https://img.shields.io/github/stars/Nixtla/mlforecast?style=social&color=white)](https://github.com/Nixtla/mlforecast/stargazers)  
     🌲 High-performance framework for recursive machine learning time-series forecasting across thousands of retail product hierarchies.
 
-29. **[DoubleML](https://github.com/DoubleML/doubleml-for-py)** [![GitHub stars](https://img.shields.io/github/stars/DoubleML/doubleml-for-py?style=social&color=white)](https://github.com/DoubleML/doubleml-for-py/stargazers)  
+29. **[DoubleML](https://github.com/DoubleML/doubleml-for-py)** [![GitHub_Stars](https://img.shields.io/github/stars/DoubleML/doubleml-for-py?style=social&color=white)](https://github.com/DoubleML/doubleml-for-py/stargazers)  
     ⚖️ Object-oriented Python library implementing Double Machine Learning to eliminate regularization bias when measuring causal price sensitivity.
 
-30. **[PricePilot](https://github.com/tomasmcguinness/PricePilot)** [![GitHub stars](https://img.shields.io/github/stars/tomasmcguinness/PricePilot?style=social&color=white)](https://github.com/tomasmcguinness/PricePilot/stargazers)  
+30. **[PricePilot](https://github.com/tomasmcguinness/PricePilot)** [![GitHub_Stars](https://img.shields.io/github/stars/tomasmcguinness/PricePilot?style=social&color=white)](https://github.com/tomasmcguinness/PricePilot/stargazers)  
     ✈️ Dynamic pricing dashboard and recommendation system combining XGBoost demand models, SHAP explainability, PPO reinforcement learning, and Streamlit.
 
-31. **[NeuroPrice](https://github.com/archinetai/neuroprice)** [![GitHub stars](https://img.shields.io/github/stars/archinetai/neuroprice?style=social&color=white)](https://github.com/archinetai/neuroprice/stargazers)  
+31. **[NeuroPrice](https://github.com/archinetai/neuroprice)** [![GitHub_Stars](https://img.shields.io/github/stars/archinetai/neuroprice?style=social&color=white)](https://github.com/archinetai/neuroprice/stargazers)  
     🧠 Open-source dynamic pricing engine combining reinforcement learning and causal inference for price-demand simulation.
 
-32. **[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)** [![GitHub stars](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets?style=social&color=white)](https://github.com/awesomedata/awesome-public-datasets/stargazers)  
+32. **[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)** [![GitHub_Stars](https://img.shields.io/github/stars/awesomedata/awesome-public-datasets?style=social&color=white)](https://github.com/awesomedata/awesome-public-datasets/stargazers)  
     📂 Collection of open-source datasets including retail transaction logs, e-commerce pricing feeds, demand history, and airline yield management records.
 
 ---
@@ -223,7 +223,7 @@ Contributions are warmly welcomed! To contribute an enterprise SaaS platform or 
 2. **Create a branch** for your feature (`git checkout -b add-pricing-tool`).
 3. **Add your entry** following the existing format:
    - For **SaaS**: Add entry to table with platform name, link, description, company valuation/revenue, starting price tier, and free trial limits.
-   - For **Open-Source**: Add repo with its official link, GitHub star badge (`[![GitHub stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)`), and description in order of star count.
+   - For **Open-Source**: Add repo with its official link, GitHub star badge (`[![GitHub_Stars](https://img.shields.io/github/stars/{owner}/{repo}?style=social&color=white)](https://github.com/{owner}/{repo}/stargazers)`), and description in order of star count.
 4. **Submit a Pull Request** with a concise description of the platform.
 5. ⭐ **Star the repo** if you find it valuable!
 
