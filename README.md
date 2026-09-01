@@ -27,52 +27,25 @@ How to Contribute
 
 Disclaimer
 
-SaaS/Hosted Platforms
+## SaaS / Hosted Platforms
 
-PROS
-Enterprise AI-powered pricing and revenue management platform supporting price optimization, quoting, revenue optimization, and complex commercial pricing.
-
-Zilliant
-B2B pricing optimization and price management platform using data science and AI to improve price guidance, segmentation, and commercial performance.
-
-Pricefx
-Cloud-native pricing platform covering price optimization, price management, CPQ, rebates, promotions, and pricing analytics.
-
-Vendavo
-Enterprise pricing and revenue optimization platform focused on B2B pricing, margin improvement, commercial intelligence, and price execution.
-
-Competera
-AI-driven retail pricing platform designed for competitive pricing, demand analysis, pricing recommendations, and retail revenue optimization.
-
-Prisync
-Competitor price tracking and dynamic pricing platform primarily focused on e-commerce retailers and brands.
-
-Omnia Retail
-Retail pricing platform providing competitive intelligence, dynamic pricing, price automation, and omnichannel pricing optimization.
-
-BlackCurve
-Pricing optimization platform for businesses seeking automated pricing recommendations based on competitive and market data.
-
-Revionics
-Retail price optimization and price management platform supporting science-based pricing, promotions, and merchandising strategies.
-
-IntelligenceNode
-Retail intelligence platform offering competitive pricing, assortment intelligence, price monitoring, and AI-driven retail analytics.
-
-RELEX Solutions
-Retail and supply-chain optimization platform with capabilities spanning pricing, promotions, demand forecasting, merchandising, and inventory optimization.
-
-Buynomics
-AI-driven pricing platform focused on demand modeling, willingness-to-pay analysis, and strategic price optimization.
-
-Symson
-Pricing optimization platform providing data-driven pricing recommendations and automated pricing workflows.
-
-PriceBeam
-Pricing research and optimization platform focused on measuring willingness to pay and helping businesses identify optimal pricing strategies.
-
-Wiser Solutions
-Commerce intelligence platform offering competitive pricing intelligence, retail monitoring, and automated pricing insights.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[PROS](https://pros.com)** | Enterprise AI-powered pricing and revenue management platform supporting price optimization, quoting, revenue optimization, and complex commercial pricing. | Starts at **~$6,250/month** (~$75,000/year billed annually) for core price optimization modules; scales by transaction volume and user seats. | No free forever plan; no self-serve free trial. Live guided demo, value assessment, and sandbox evaluation available upon sales qualification. |
+| **[Zilliant](https://zilliant.com)** | B2B pricing optimization and price management platform using data science and AI to improve price guidance, segmentation, and commercial performance. | Starts at **~$4,000–$5,000/month** (~$50,000/year annual agreement) for entry pricing guidance modules; scales by company revenue and transaction scope. | No free forever plan; no self-serve free trial. Custom proof-of-value demo and historical transaction data audit available on request. |
+| **[Pricefx](https://www.pricefx.com)** | Cloud-native pricing platform covering price optimization, price management, CPQ, rebates, promotions, and pricing analytics. | Starts at **~$8,333/month** (~$100,000/year annual contract); entry training and implementation packages start from €4,000–€10,500. | No free forever plan; no self-serve free trial. Guided interactive sandbox demo and proof-of-concept pilot available on request. |
+| **[Vendavo](https://www.vendavo.com)** | Enterprise pricing and revenue optimization platform focused on B2B pricing, margin improvement, commercial intelligence, and price execution. | Starts at **~$5,000/month** (~$60,000/year annual contract) for core deal price optimization modules; scales based on SKU count and integration depth. | No free forever plan; no self-serve free trial. Tailored product demonstration and commercial value discovery workshop on request. |
+| **[Competera](https://competera.ai)** | AI-driven retail pricing platform designed for competitive pricing, demand analysis, pricing recommendations, and retail revenue optimization. | Starts at **~$750/month** for SMB competitive monitoring; enterprise dynamic pricing & elasticity modules start at **~$4,166/month** (~$50,000/year). | No free forever plan; no self-serve trial. Proof of Concept (PoC) pilot (typically 30–60 days with historical data audit) and live demo on request. |
+| **[Prisync](https://prisync.com)** | Competitor price tracking and dynamic pricing platform primarily focused on e-commerce retailers and brands. | Starts at **$99/month** (Professional plan for up to 100 products; **$49/month** for Shopify merchants). Premium at $199/mo (1,000 products); Platinum at $399/mo (5,000 products). | No free forever plan; **14-day free trial** with full feature access, up to 100 products tracked, no credit card required. |
+| **[Omnia Retail](https://www.omniaretail.com)** | Retail pricing platform providing competitive intelligence, dynamic pricing, price automation, and omnichannel pricing optimization. | Starts at **€399/month** (~$430/month) for SMB Single-Shop plan (AI price monitoring & dynamic pricing, up to 5 user seats). Enterprise multi-shop plans are quote-based. | No free forever plan; no self-serve trial. Interactive live product demo and custom data consultation available upon request. |
+| **[BlackCurve](https://www.blackcurve.com)** | Pricing optimization platform for businesses seeking automated pricing recommendations based on competitive and market data. | Starts at **£199/month** (~$250/month, billed annually) for Team plan (up to 5,000 SKUs, standard pricing rules, quotation builder). Professional plan starts at £699/month. | No free forever plan; **30-day free trial** providing full access to Enterprise tier features and pricing rule simulations. |
+| **[Revionics](https://revionics.com)** | Retail price optimization and price management platform supporting science-based pricing, promotions, and merchandising strategies. | Starts at **~$5,000/month** (~$60,000/year annual contract) for core retail base price optimization; scales with store footprint and SKU catalog size. | No free forever plan; no self-serve free trial. Pricing strategy checkup, AI simulation walk-through, and guided demo available on request. |
+| **[IntelligenceNode](https://www.intelligencenode.com)** | Retail intelligence platform offering competitive pricing, assortment intelligence, price monitoring, and AI-driven retail analytics. | Starts at **~$5,000/month** (~$60,000/year minimum engagement) for automated SKU tracking and competitive intelligence feeds. | No free forever plan; no self-serve free trial. Custom retail audit, live product walkthrough, and sample competitor crawl available upon request. |
+| **[RELEX Solutions](https://www.relexsolutions.com)** | Retail and supply-chain optimization platform with capabilities spanning pricing, promotions, demand forecasting, merchandising, and inventory optimization. | Starts at **~$50,000/year** (~$4,166/month) for modular mid-market deployments; enterprise multi-module deployments range from $200,000 to $1,000,000+/year. | No free forever plan; no self-serve free trial. Live customized demo and supply-chain/pricing simulation with retailer data on request. |
+| **[Buynomics](https://www.buynomics.com)** | AI-driven pricing platform focused on demand modeling, willingness-to-pay analysis, and strategic price optimization. | Starts at **~€997–€1,500/month** (~$1,100–$1,650/month, billed annually) for core Revenue Growth Management (RGM) simulation modules. | No free forever plan; no self-serve trial. Free access to RGM Academy certification courses, interactive scenario demo, and guided pilot on request. |
+| **[Symson](https://www.symson.com)** | Pricing optimization platform providing data-driven pricing recommendations and automated pricing workflows. | Starts at **€997/month** (~$1,080/month flat rate) for core AI price optimization engine and competitor monitoring. | No free forever plan; **14-day free trial** with sample/custom data ingestion and guided workflow onboarding upon request. |
+| **[PriceBeam](https://www.pricebeam.com)** | Pricing research and optimization platform focused on measuring willingness to pay and helping businesses identify optimal pricing strategies. | Starts at **$4,995/project** for single willingness-to-pay studies; continuous tracking subscriptions start at **~$800–$1,200/month** billed annually. | No free forever plan; **14-day free trial** / guided evaluation study for qualified research teams upon request. |
+| **[Wiser Solutions](https://www.wiser.com)** | Commerce intelligence platform offering competitive pricing intelligence, retail monitoring, and automated pricing insights. | Starts at **~$699/month** (~$8,388/year billed annually) for entry-tier online price monitoring and MAP compliance tracking. | No free forever plan; no self-serve trial. Free strategy consultation, live competitive data audit, and platform demo available on request. |
 
 Open-Source GitHub Projects
 
